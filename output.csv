@@ -1,0 +1,27 @@
+comment_id,username,comment_text,is_offensive,offense_type,explanation,severity
+1,alice,This is a great product!,False,none,Error or fallback,0
+2,bob,"I don't like it, but it's okay.",False,none,Error or fallback,0
+3,charlie,Absolutely terrible experience.,False,none,Error or fallback,0
+4,diana,"Could be better, but not bad.",False,none,Error or fallback,0
+5,edward,Loved it! Will buy again.,False,none,Error or fallback,0
+6,frank,Not worth the price.,False,none,Error or fallback,0
+7,grace,Fantastic quality and service.,False,none,Error or fallback,0
+8,harry,I've seen better.,False,none,Error or fallback,0
+9,irene,Highly recommend to everyone.,False,none,Error or fallback,0
+10,jack,"Meh, it's average.",False,none,Error or fallback,0
+11,karen,Worst purchase ever.,False,none,Error or fallback,0
+12,leo,Decent for the cost.,False,none,Error or fallback,0
+13,mona,Exceeded my expectations!,False,none,Error or fallback,0
+14,nick,Wouldn't recommend.,False,none,Error or fallback,0
+15,olivia,Just what I needed.,False,none,Error or fallback,0
+16,paul,Disappointed with the performance.,False,none,Error or fallback,0
+17,quincy,Five stars! Excellent!,False,none,Error or fallback,0
+18,rachel,"It's okay, does the job.",False,none,Error or fallback,0
+19,steve,Not as described.,False,none,Error or fallback,0
+20,tina,Perfect! Exactly as advertised.,False,none,Error or fallback,0
+21,xuser,You're such an idiot.,False,none,Error or fallback,0
+22,yuser,I hate people like you.,False,none,Error or fallback,0
+23,zuser,"This is the dumbest thing ever, get lost.",False,none,Error or fallback,0
+24,hacker,Shut up and die!,False,none,Error or fallback,0
+25,troll,"This sucks, what a moron made this?
+Note: Detected profanity.",False,none,Error or fallback,0
