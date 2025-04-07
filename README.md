@@ -15,7 +15,7 @@ This project is a Python-based tool that detects and categorizes offensive conte
 - 📄 Outputs a detailed CSV report and summary  
 
 ---
-## Demo ->
+## Demo -> https://drive.google.com/file/d/1-u9K7qchkvZA7btPOwMFBXLKxS21G9HA/view?usp=sharing
 
 ## 📂 Input
 
